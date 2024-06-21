@@ -1,4 +1,4 @@
-name: "Semantic release action"
+name: "Github Semantic release action"
 description: "This tool performs semantic release or returns value of next release version"
 
 inputs:
